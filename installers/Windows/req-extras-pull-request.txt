@@ -1,0 +1,25 @@
+# Spyder extra packages
+autopep8
+flake8
+Paramiko
+pycodestyle
+pydocstyle
+pyflakes
+pyxdg
+rope
+yapf
+
+# Scientific packages (for Same as Spyder)
+numpy
+scipy
+pandas
+matplotlib
+cython
+sympy
+
+# Spyder external plugins
+spyder-terminal>=1.2.2
+
+# Spyder external dependencies (spyder-kernels and qdarkstyle)
+./external-deps/spyder-kernels
+./external-deps/qdarkstyle
